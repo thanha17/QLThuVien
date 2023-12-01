@@ -1,0 +1,4 @@
+﻿INSERT INTO [dbo].[Account] ([id_person], [Username], [Password], [Ten_person], [Birthday_person], [Address], [Contact_Info]) VALUES (N'0         ', N'admin     ', N'0', N'ADMIN', N'2004-03-03', NULL, NULL)
+INSERT INTO [dbo].[Account] ([id_person], [Username], [Password], [Ten_person], [Birthday_person], [Address], [Contact_Info]) VALUES (N'1         ', N'thanh1    ', N'1', N'thành 1', N'2004-01-01', NULL, NULL)
+INSERT INTO [dbo].[Account] ([id_person], [Username], [Password], [Ten_person], [Birthday_person], [Address], [Contact_Info]) VALUES (N'2         ', N'thanh2    ', N'2', N'thành 2', N'2004-02-02', NULL, NULL)
+DELETE Account
